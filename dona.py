@@ -13,8 +13,11 @@ white = (255, 255, 255)
 black = (0, 0, 0)
 hue = 0
 
+# aqui pueden regular la anchura y tamaño de la pantalla :)
 WIDTH = 1920
 HEIGHT = 1080
+
+
 
 x_start, y_start = 0, 0
 
