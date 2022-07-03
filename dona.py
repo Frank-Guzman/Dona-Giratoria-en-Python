@@ -34,7 +34,7 @@ y_offset = rows / 2
 A, B = 0, 0  #Animacion y rotacion
 
 theta_spacing = 10
-phi_spacing = 1 # Para una rotacion Mas rapida Cambien a 2 o 3 o mas pero primero cambien 86,87 como comente.
+phi_spacing = 1 # Para una rotacion Mas rapida Cambien a 2 o 3 o mas!!
 
 chars = ".,-~:;=!*#$@"  #Luminancia
 
